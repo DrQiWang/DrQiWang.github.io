@@ -1,0 +1,9 @@
+title: Qi Wang
+tagline: Assistant Professor at Sichuan University Business School
+logo: /assets/img/fig2.jpg
+description: Assistant Professor at Sichuan University Business School
+Yoshow_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
